@@ -45,9 +45,6 @@ button{
 .nav{
 	text-align: center;
 }
-.nav a:hover, .nav a:focus{
-	background-color: white;
-}
 .navbar-nav{
 	margin-top: 0px;
 	background-color: white;
@@ -58,13 +55,4 @@ ul{
 .nav li{
 	border:1px solid black;
 }
-li a:hover, li a:focus{
-	background-color: #007777;
-}
 
-.navbar-nav > li > a:focus{
-	background-color: #007777;
-}
-content{
-	text-align: justify;
-}
